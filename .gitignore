@@ -1,0 +1,7 @@
+*.o
+main
+*.dot
+*.svg
+.vscode/
+*.htm
+*.gch
